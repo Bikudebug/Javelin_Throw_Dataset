@@ -1,5 +1,5 @@
 # Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw
-## Javelin Throw Action Dataset
+## Javelin Throw Dataset
 
 This repository hosts the **Javelin Throw Action Dataset**, which contains synchronized **video files**, **skeleton pose data**, and **annotated action phase data** for javelin throw analysis.  
 The dataset is designed to support research in **sports action segmentation**, **pose estimation**, and **phase detection**.
