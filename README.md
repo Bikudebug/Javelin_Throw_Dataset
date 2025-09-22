@@ -26,8 +26,6 @@ The dataset is organized into the following components:
 - **Skeleton Files**: `video_<index>.json` corresponding to each video file.  
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
-This naming convention ensures easy mapping between video, skeleton, and annotation files.
-
 ---
 
 
