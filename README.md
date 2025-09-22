@@ -14,8 +14,8 @@ The dataset is organized into the following components:
 
 | Component | Description | Link |
 |-----------|-------------|------|
-| 🎥 **Video Files** | Original javelin throw videos in `.mp4` format. Each file is named `vid_<index>.mp4`. | [Video Files Link](https://your-link-here.com) |
-| 🦴 **Skeleton Data** | 2D/3D pose skeleton data extracted from the videos (e.g., using AlphaPose or MMPose). Stored in `.json` or `.npz` format. | [Skeleton Data Link](https://your-link-here.com) |
+| 🎥 **Video Files** | Original javelin throw videos in `.mp4` format. Each file is named `vid_<index>.mp4`. | [Video Files Link](https://drive.google.com/file/d/1fKfZNCHdr3NK7Ppnfcb3oV-57pTRH9ys/view?usp=sharing) |
+| 🦴 **Skeleton Data** | 2D pose skeleton data extracted from the videos, using MMPose. Stored in `.json` format. | [Skeleton Data Link]([https://your-link-here.com](https://drive.google.com/file/d/1DM9kKhr7CwC61Df60mzRVP6s_bcI8XP8/view?usp=sharing)) |
 | 📝 **Annotated Data** | Frame-level annotations of javelin throw phases: *Steps*, *Drive*, *Throw*, *Recovery*. Stored in `.csv` or `.json` format. | [Annotated Data Link](https://your-link-here.com) |
 
 ---
