@@ -23,8 +23,8 @@ The dataset is organized into the following components:
 ## 📑 File Naming Convention
 
 - **Video Files**: `vid_<index>.mp4` (e.g., `vid_0.mp4`, `vid_1.mp4`…)  
-- **Skeleton Files**: `skeleton_<index>.json` or `.npz` corresponding to each video file.  
-- **Annotation Files**: `annotation_<index>.csv` with labeled frame numbers for each phase.  
+- **Skeleton Files**: `video_<index>.json` corresponding to each video file.  
+- **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 This naming convention ensures easy mapping between video, skeleton, and annotation files.
 
@@ -33,7 +33,7 @@ This naming convention ensures easy mapping between video, skeleton, and annotat
 ## 📝 Annotation Format
 
 Each annotation file contains frame-level phase information:
-```csv
+```json
 frame,phase
 0,steps
 1,steps
