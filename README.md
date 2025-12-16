@@ -1,6 +1,7 @@
 # Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw
-![Javelin Demo](https://github.com/Bikudebug/Javelin_Throw_Dataset/blob/main/side_by_side-ezgif.com-video-to-gif-converter.gif)
 📄 **Paper available at:** https://ieeexplore.ieee.org/document/11264777
+![Javelin Demo](https://github.com/Bikudebug/Javelin_Throw_Dataset/blob/main/side_by_side-ezgif.com-video-to-gif-converter.gif)
+
 
 ## Javelin Throw Dataset
 
