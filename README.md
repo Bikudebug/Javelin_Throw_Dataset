@@ -32,7 +32,7 @@ The dataset is organized into the following components:
 ---
 <table>
   <tr>
-    <td width="30%" align="center">
+    <td width="20%" align="center">
       <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="100">
     </td>
     <td width="70%">
