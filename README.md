@@ -49,6 +49,7 @@ The dataset is organized into the following components:
       <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="130">
     </td>
     <td width="83%" style="border: 0;">
+      <h3>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</h3>
       <p>
         <span style="font-size: 12px;">
           <strong>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</strong>
