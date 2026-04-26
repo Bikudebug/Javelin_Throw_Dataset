@@ -50,7 +50,7 @@ The dataset is organized into the following components:
     </td>
     <td width="83%" style="border: 0;">
       <p>
-        <span style="font-size: 29px;">
+        <span style="font-size: 69px;">
           <strong>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</strong>
         </span>
       </p>
