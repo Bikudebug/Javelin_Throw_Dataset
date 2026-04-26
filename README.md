@@ -30,7 +30,7 @@ The dataset is organized into the following components:
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 ---
-![FightingOshaeJonesGIF](https://ugokawaii.com/en/sport-en/track-and-field/javelin-throw/)
+![Javelin Throw Animation](Figure/javelin-throw.gif)
 ## **Citation**
 
 If you use Throwing4 in your research, please cite:
