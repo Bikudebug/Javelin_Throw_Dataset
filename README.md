@@ -43,15 +43,20 @@ The dataset is organized into the following components:
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 ---
-<table>
-  <tr>
-    <td width="10%" align="center">
-      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="100">
+<h1>Throwing4 Dataset</h1>
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td width="17%" align="center" style="border: none;">
+      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="130">
     </td>
-    <td width="70%">
-      <h3>Throwing4 Dataset</h3>
+    <td width="83%" style="border: none;">
       <p>
-        This repository hosts the Throwing4 dataset, which contains synchronized RGB video files, skeleton pose data, and annotated action-phase data for elite athletics throwing analysis across javelin throw, discus throw, hammer throw, and shot put.
+        <strong>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</strong>
+      </p>
+      <p>
+        📄 <strong>Paper available at:</strong>
+        <a href="https://ieeexplore.ieee.org/document/11264777">https://ieeexplore.ieee.org/document/11264777</a>
       </p>
     </td>
   </tr>
