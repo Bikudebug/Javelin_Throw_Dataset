@@ -51,11 +51,6 @@ The dataset is organized into the following components:
     <td width="83%" style="border: 0;">
       <h3>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</h3>
       <p>
-        <span style="font-size: 12px;">
-          <strong>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</strong>
-        </span>
-      </p>
-      <p>
         📄 <strong>Paper available at:</strong>
         <a href="https://ieeexplore.ieee.org/document/11264777">https://ieeexplore.ieee.org/document/11264777</a>
       </p>
