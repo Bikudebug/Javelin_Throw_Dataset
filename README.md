@@ -30,9 +30,19 @@ The dataset is organized into the following components:
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 ---
-<p align="center">
-  <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="220">
-</p>
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="180">
+    </td>
+    <td width="70%">
+      <h3>Javelin Throw Action Dataset</h3>
+      <p>
+        This repository hosts the Javelin Throw Action Dataset, which contains synchronized video files, skeleton pose data, and annotated action phase data for javelin throw analysis.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ![Javelin Throw Animation](Figure/javelin-throw.gif)
 ## **Citation**
