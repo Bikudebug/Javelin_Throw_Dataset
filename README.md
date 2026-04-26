@@ -36,9 +36,9 @@ The dataset is organized into the following components:
       <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="180">
     </td>
     <td width="70%">
-      <h3>Javelin Throw Action Dataset</h3>
+      <h3>Throwing4 Dataset</h3>
       <p>
-        This repository hosts the Javelin Throw Action Dataset, which contains synchronized video files, skeleton pose data, and annotated action phase data for javelin throw analysis.
+        This repository hosts the Throwing4 dataset, which contains synchronized RGB video files, skeleton pose data, and annotated action-phase data for elite athletics throwing analysis across javelin throw, discus throw, hammer throw, and shot put.
       </p>
     </td>
   </tr>
