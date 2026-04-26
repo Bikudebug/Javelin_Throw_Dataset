@@ -1,17 +1,18 @@
-<table>
-  <tr>
-    <td width="10%" align="center">
-      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="100">
+<table style="border-collapse: collapse; border: 0;">
+  <tr style="border: 0;">
+    <td width="17%" align="center" style="border: 0;">
+      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="130">
     </td>
-    <td width="70%">
-      <h3>Throwing4 Dataset</h3>
+    <td width="83%" style="border: 0;">
+      <h3>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</h3>
       <p>
-        # Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw
-        📄 **Paper available at:** https://ieeexplore.ieee.org/document/11264777
+        📄 <strong>Paper available at:</strong>
+        <a href="https://ieeexplore.ieee.org/document/11264777">https://ieeexplore.ieee.org/document/11264777</a>
       </p>
     </td>
   </tr>
 </table>
+
 # Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw
 
 ![Javelin Demo](https://github.com/Bikudebug/Javelin_Throw_Dataset/blob/main/side_by_side-ezgif.com-video-to-gif-converter.gif)
@@ -43,20 +44,6 @@ The dataset is organized into the following components:
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 ---
-<table style="border-collapse: collapse; border: 0;">
-  <tr style="border: 0;">
-    <td width="17%" align="center" style="border: 0;">
-      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="130">
-    </td>
-    <td width="83%" style="border: 0;">
-      <h3>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</h3>
-      <p>
-        📄 <strong>Paper available at:</strong>
-        <a href="https://ieeexplore.ieee.org/document/11264777">https://ieeexplore.ieee.org/document/11264777</a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## **Citation**
 
