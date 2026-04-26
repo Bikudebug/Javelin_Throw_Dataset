@@ -43,16 +43,16 @@ The dataset is organized into the following components:
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 ---
-<h1>Throwing4 Dataset</h1>
-
-<table style="border: none;">
-  <tr style="border: none;">
-    <td width="17%" align="center" style="border: none;">
+<table style="border-collapse: collapse; border: 0;">
+  <tr style="border: 0;">
+    <td width="17%" align="center" style="border: 0;">
       <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="130">
     </td>
-    <td width="83%" style="border: none;">
+    <td width="83%" style="border: 0;">
       <p>
-        <strong>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</strong>
+        <span style="font-size: 24px;">
+          <strong>Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw</strong>
+        </span>
       </p>
       <p>
         📄 <strong>Paper available at:</strong>
