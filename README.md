@@ -30,5 +30,21 @@ The dataset is organized into the following components:
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 ---
+![FightingOshaeJonesGIF](https://ugokawaii.com/en/sport-en/track-and-field/javelin-throw/)
+## **Citation**
+
+If you use Throwing4 in your research, please cite:
+
+```bibtex
+@inproceedings{badatya2025biomechanical,
+  title={Biomechanical-phase based temporal segmentation in sports videos: a demonstration on Javelin-throw},
+  author={Badatya, Bikash Kumar and Baghel, Vipul and Amin, Jyotirmoy and Hegde, Ravi},
+  booktitle={2025 IEEE International Workshop on Sport, Technology and Research (STAR)},
+  pages={19--24},
+  year={2025},
+  organization={IEEE}
+}
+
+```
 
 
