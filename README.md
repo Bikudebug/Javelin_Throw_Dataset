@@ -33,7 +33,7 @@ The dataset is organized into the following components:
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="180">
+      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="150">
     </td>
     <td width="70%">
       <h3>Throwing4 Dataset</h3>
