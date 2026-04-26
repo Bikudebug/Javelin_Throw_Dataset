@@ -30,6 +30,10 @@ The dataset is organized into the following components:
 - **Annotation Files**: `vid_<index>.json` with labeled frame numbers for each phase.  
 
 ---
+<p align="center">
+  <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="220">
+</p>
+
 ![Javelin Throw Animation](Figure/javelin-throw.gif)
 ## **Citation**
 
