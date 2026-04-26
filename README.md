@@ -1,3 +1,16 @@
+<table>
+  <tr>
+    <td width="10%" align="center">
+      <img src="Figure/javelin-throw.gif" alt="Javelin Throw Animation" width="100">
+    </td>
+    <td width="70%">
+      <h3>Throwing4 Dataset</h3>
+      <p>
+        **Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw**
+      </p>
+    </td>
+  </tr>
+</table>
 # Biomechanical-phase based Temporal Segmentation in Sports Videos: a Demonstration on Javelin-Throw
 📄 **Paper available at:** https://ieeexplore.ieee.org/document/11264777
 
